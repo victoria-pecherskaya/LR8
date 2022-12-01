@@ -17,16 +17,16 @@ public class Main {
         int flag = 0;
 
         someStrings.add("Hello");
-        someStrings.add("How are you");
+        someStrings.add("HowRU");
         someStrings.add("Fine");
-        someStrings.add("Thank you");
+        someStrings.add("Thanks");
         someStrings.add("Exams");
         someStrings.add("Summer");
         someStrings.add("Food");
         someStrings.add("MoreFood");
         someStrings.add("Hello");
         someStrings.add("Summer");
-        someStrings.add("Spring");
+        someStrings.add("Autumn");
         someStrings.add("Learning");
         someStrings.add("Night");
         someStrings.add("Chill");
