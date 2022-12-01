@@ -29,6 +29,7 @@ public class Main {
         someStrings.add("Learning");
         someStrings.add("Night");
         someStrings.add("Chill");
+        someStrings.add("Sun");
 
         while(flag==0) {
             System.out.println(menu);
